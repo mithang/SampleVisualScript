@@ -1,0 +1,12 @@
+.btnLogin {
+    background-color: rgba(142, 195, 56, 255);
+    border-left-color: rgba(231, 1, 28, 255);
+    border-right-color: rgba(231, 1, 28, 255);
+    border-top-color: rgba(231, 1, 28, 255);
+    border-bottom-color: rgba(231, 1, 28, 255);
+}
+
+.txtUsername {
+    background-color: rgba(5, 231, 74, 255);
+    color: rgba(255, 18, 195, 255);
+}

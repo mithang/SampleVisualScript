@@ -1,0 +1,7 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI%20Toolkit/LoginCss.uss?fileID=7433441132597879392&amp;guid=41266bc294d854709a4ec90552aa4982&amp;type=3#LoginCss" />
+    <ui:VisualElement>
+        <ui:TextField picking-mode="Ignore" label="Text Field" value="filler text" text="filler text" name="txtUsername" class="txtUsername" style="justify-content: flex-end; align-items: auto;" />
+        <ui:Button text="Button" display-tooltip-when-elided="true" name="btnLogin" class="btnLogin" />
+    </ui:VisualElement>
+</ui:UXML>
